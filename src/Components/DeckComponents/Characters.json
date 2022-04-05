@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "clicked": false,
+        "name": "Naruto",
+        "image": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/08/naruto-in-sage-mode-looks-concerned.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5"
+    },
+    {
+        "id": 2,
+        "clicked": false,
+        "name": "Sausake",
+        "image": "https://progameguides.com/wp-content/uploads/2021/11/fortnite-outfit-sasuke-uchiha.jpg"
+    },
+    {
+        "id": 3,
+        "clicked": false,
+        "name": "Sakura",
+        "image": "https://blacknerdproblems.com/wp-content/uploads/2015/08/Sakura-In-Action.jpg"
+    },
+    {
+        "id": 4,
+        "clicked": false,
+        "name": "Kakashi",
+        "image": "https://tryhardguides.com/wp-content/uploads/2021/11/kakashi-hatake-featured.png"
+    },
+    {
+        "id": 5,
+        "clicked": false,
+        "name": "Itachi",
+        "image": "https://cdn.anime-planet.com/characters/primary/itachi-uchiha-1.jpg?t=1625771660"
+    },
+    {
+        "id": 6,
+        "clicked": false,
+        "name": "Obito",
+        "image": "https://thicc.mywaifulist.moe/waifus/24065/716198faa24d9d08e2e86e38af4465340f925bac1f43ed44b1dec314f60394f3_thumb.jpg"
+    },
+    {
+        "id": 7,
+        "clicked": false,
+        "name": "Shikamaru",
+        "image": "https://shareiitnow.b-cdn.net./wp-content/uploads/2020/01/Shikamaru-the-Chunin-Exam.jpg"
+    },
+    {
+        "id": 8,
+        "clicked": false,
+        "name": "Pain",
+        "image": "https://imgix.ranker.com/user_node_img/50081/1001613473/original/life-and-_39_s-greatest-lessons-photo-u1?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=650"
+    },
+    {
+        "id": 9,
+        "clicked": false,
+        "name": "Madara",
+        "image": "https://www.pngmart.com/files/13/Anime-Madara-Uchiha-PNG-Photo.png"
+    },
+    {
+        "id": 10,
+        "clicked": false,
+        "name": "Jiraiya",
+        "image": "https://cdn.anime-planet.com/characters/primary/jiraiya-1.jpg?t=1625767801"
+    },
+    {
+        "id": 11,
+        "clicked": false,
+        "name": "Gaara",
+        "image": "http://static4.wikia.nocookie.net/__cb20131019150545/naruto/es/images/thumb/a/a0/Gaara_Capitan.png/300px-Gaara_Capitan.png"
+    },
+    {
+        "id": 12,
+        "clicked": false,
+        "name": "Neji",
+        "image": "https://3.bp.blogspot.com/-oHtXua8D7ww/VGD2XjkWlvI/AAAAAAAADNE/NOUK5RsN23c/s1600/2782167-neji_shippuden_neji_hyuga_27069086_640_480.jpg"
+    },
+    {
+        "id": 13,
+        "clicked": false,
+        "name": "Hinata",
+        "image": "https://pm1.narvii.com/7154/b7e475e7131ed498ebe636a6732392d25a828cefr1-650-650v2_hq.jpg"
+    },
+    {
+        "id": 14,
+        "clicked": false,
+        "name": "Choji",
+        "image": "https://cdn-0.practicaltyping.com/wp-content/uploads/2019/11/choji.png"
+    },
+    {
+        "id": 15,
+        "clicked": false,
+        "name": "Rock Lee",
+        "image": "https://4.bp.blogspot.com/-nbBeXl00w8k/VGEk2QJAJLI/AAAAAAAADNo/3gW_hf4T_2E/s1600/3376602-5989241996-drunk.jpg"
+    }
+]
