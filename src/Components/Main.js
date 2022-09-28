@@ -25,11 +25,10 @@ const Game = () => {
             incrementScore()
             setCardsPlayed((prevState)=> [...prevState, card])
         }
-        console.log(cardsPlayed)
     }
 
     const shuffleDeck = () => {
-        const newDeck = [...Characters, shuffle(Characters)]
+        const newDeck = shuffle(deck)
         setDeck(newDeck)
     }
 

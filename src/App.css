@@ -1,3 +1,6 @@
+body{
+  padding: 2%;
+}
 /* Grid */
 .card-container{
   width: 625px;
